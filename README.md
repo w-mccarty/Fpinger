@@ -1,5 +1,4 @@
 # Fpinger
-fping bash script
 
 Quickly tests if multiple servers are online and offline & with optional relevant information
 
